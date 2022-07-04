@@ -1,0 +1,28 @@
+1656971864145	geckodriver	INFO	Listening on 127.0.0.1:59392
+1656971864407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59393" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gl/jd1s_r5d1w50j0x8f7p0jw900000gn/T/rust_mozprofileo3WuQn"
+WebDriver BiDi listening on ws://localhost:59393
+DevTools listening on ws://localhost:59393/devtools/browser/4c609a7e-9559-4891-a103-43aae964119c
+1656971881221	geckodriver	INFO	Listening on 127.0.0.1:59431
+1656971881739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59432" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gl/jd1s_r5d1w50j0x8f7p0jw900000gn/T/rust_mozprofile9M3uFq"
+1656971882459	Marionette	INFO	Marionette enabled
+1656971882502	Marionette	INFO	Listening on port 59439
+WebDriver BiDi listening on ws://localhost:59432
+Read port: 59439
+1656971883309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gl/jd1s_r5d1w50j0x8f7p0jw900000gn/T/rust_mozprofile9M3uFq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59432/devtools/browser/52d37d1b-654a-419a-bb41-d68066db8bc2
+1656971925771	geckodriver	INFO	Listening on 127.0.0.1:59473
+1656971926291	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59474" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/gl/jd1s_r5d1w50j0x8f7p0jw900000gn/T/rust_mozprofilebnJIAz"
+1656971926966	Marionette	INFO	Marionette enabled
+1656971927003	Marionette	INFO	Listening on port 59481
+WebDriver BiDi listening on ws://localhost:59474
+Read port: 59481
+1656971927581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/gl/jd1s_r5d1w50j0x8f7p0jw900000gn/T/rust_mozprofilebnJIAz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59474/devtools/browser/1ea4702c-728b-4d2a-a425-d83730664e22
+JavaScript warning: https://code.jquery.com/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/aHhPXGVii6m1UdQEw4dl9bTaUK-_iBumPQ-RERU6U4M.js line 2 > eval line 6049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656972200514	Marionette	INFO	Stopped listening on port 59481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1656972202610	Marionette	INFO	Stopped listening on port 59439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
